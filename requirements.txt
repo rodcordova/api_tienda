@@ -1,4 +1,5 @@
 uvicorn
+scikit-learn
 Flask==2.3.2
 joblib==1.4.2
 numpy==1.25.1
